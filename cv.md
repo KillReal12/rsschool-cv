@@ -26,7 +26,13 @@ Hi, my name is Kirill, I'm 25 years old. At the age of 22, I graduated from IMSI
 
 ## 5. Code example :
 
-
+```
+function sub (a, b) {
+    return a - b;
+}
+let result = sub (5, 10);
+console.log (result);
+```
 
 ## 6. 
 
@@ -38,4 +44,3 @@ https://github.com/KillReal12/html-practise/blob/main/index.html
 IMSIT College (2019) specialty computer networks
 
 ## 8. A2
-
